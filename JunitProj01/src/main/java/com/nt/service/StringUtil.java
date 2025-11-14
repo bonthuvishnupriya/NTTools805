@@ -19,7 +19,7 @@ public class StringUtil {
 	    	}
 	    }
 	   public int showLength(String str) {
-		   return str.length();
+		   return str.length();// gives length of string
 	   }
 	    
 	    
