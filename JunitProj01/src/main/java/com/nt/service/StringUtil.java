@@ -18,7 +18,9 @@ public class StringUtil {
 	    		return LocalDate.of(year, month, day);
 	    	}
 	    }
-	    
+	   public int showLength(String str) {
+		   return str.length();
+	   }
 	    
 	    
 	}
